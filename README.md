@@ -1,1 +1,2 @@
-# corriculum_of_HUAKE
+# Machine Learning Project
+## Implement adaboost based on decision tree and log probability regression
